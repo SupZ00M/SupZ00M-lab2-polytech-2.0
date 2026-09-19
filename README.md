@@ -1,4 +1,4 @@
-# lab2-polytech-
+# lab2-polytech-2.0
 ## Сборка IFile
 cd libs && mkdir -p build && cd build && cmake .. && make
 ## Сборка всего проекта 
