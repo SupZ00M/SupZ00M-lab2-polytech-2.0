@@ -1,0 +1,10 @@
+*.log
+*.o
+*.a
+*.out
+*.cmake
+CMakeCache.txt
+number_*.txt
+makefile
+build/
+libs/build/
